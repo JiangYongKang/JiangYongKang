@@ -6,3 +6,5 @@
 
 #### 我的 GitHub 统计
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiangYongKang&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
